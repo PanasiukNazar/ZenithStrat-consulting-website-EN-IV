@@ -54,7 +54,7 @@ h1 {
     text-decoration: none;
     text-transform: uppercase;
     cursor: pointer;
-    border-radius: 0;
+    border-radius: 5px;
 }
 .go-home:hover {
     background: transparent;
